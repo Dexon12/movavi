@@ -1,4 +1,4 @@
 id,email,proxy
-0,denzuravl09@gmail.com,http://0iyLsMBhVIRtEBuqLoSS:RNW78Fm5@185.162.130.86:10000
-1,denzuravl09@gmail.com,http://0iyLsMBhVIRtEBuqLoSS:RNW78Fm5@185.162.130.86:10000
-2,teste@exemplo.us,http://0iyLsMBhVIRtEBuqLoSS:RNW78Fm5@185.162.130.86:10000
+0,teste@exemplo.us,http://user:pass@host:port
+1,teste@exemplo.us,http://user:pass@host:port
+2,teste@exemplo.us,http://user:pass@host:port
